@@ -11,7 +11,7 @@ flask-socketio==3.0.1
 flask-sqlalchemy==2.3.2
 flask-wtf==0.14.2
 flask==1.0.2
-greenlet==0.4.14
+greenlet==1.1.0
 html5lib==1.0.1
 idna==2.7
 itsdangerous==0.24
